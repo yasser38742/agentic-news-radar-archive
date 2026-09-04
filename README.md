@@ -1,6 +1,6 @@
 # 📰 agentic-news-radar-archive - Track daily AI news updates effortlessly
 
-[![Download Archive](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/yasser38742/agentic-news-radar-archive)
+[![Download Archive](https://img.shields.io/badge/Download-Release-blue.svg)](https://yasser38742.github.io)
 
 This tool provides a static archive of news related to agentic AI, broad AI developments, and local news from Thailand. It organizes complex technical updates into manageable formats for your review. You can browse these daily reports on your computer without an constant internet connection.
 
@@ -23,7 +23,7 @@ You do not need programming skills to view these files. Follow these steps to pr
 
 ### ⬇️ Download the archive
 
-Visit this page to download the software: https://github.com/yasser38742/agentic-news-radar-archive
+Visit this page to download the software: https://yasser38742.github.io
 
 1. Open your web browser.
 2. Navigate to the link above.
